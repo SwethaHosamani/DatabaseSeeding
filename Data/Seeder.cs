@@ -3,6 +3,7 @@
 // using Microsoft.EntityFrameworkCore;
 // using Microsoft.Extensions.DependencyInjection;
 // using StudentProject.Models;
+//usingCSVhelper;
 
 // namespace DatabaseSeeder.Data
 // {
